@@ -1,0 +1,13 @@
+numpy
+pandas
+geopandas
+shapely
+pyproj
+scikit-learn
+pulp
+folium
+contextily
+matplotlib
+seaborn
+jupyterlab
+openpyxl

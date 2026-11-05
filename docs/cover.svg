@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290">
+<rect width="1200" height="290" rx="18" fill="#111c30"/>
+<rect x="0" y="0" width="10" height="290" fill="#58d0bf"/>
+<circle cx="1130" cy="240" r="155" fill="#58d0bf" opacity=".13"/>
+<circle cx="1130" cy="240" r="110" fill="none" stroke="#58d0bf" stroke-width="2" opacity=".5"/>
+<g font-family="Arial, Apple SD Gothic Neo, Malgun Gothic, sans-serif"><text x="55" y="63" fill="#58d0bf" font-size="19" letter-spacing="3">DAEJEON / FACILITY LOCATION</text>
+<text x="55" y="139" fill="#ffffff" font-size="37" font-weight="700">대전 둔산동 · 폐의약품 수거함 입지</text>
+<text x="55" y="195" fill="#bdcbe0" font-size="21">생활 속 방문 장소를 수거 거점으로 활용하는 입지 분석</text>
+<text x="55" y="251" fill="#7d94b5" font-size="15">RESEARCH QUESTION / ANALYSIS CODE / REPORT / RESULTS</text></g></svg>
